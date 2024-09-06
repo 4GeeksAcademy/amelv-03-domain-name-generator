@@ -36,3 +36,4 @@ const domainName = () => {
     }
   }
 };
+domainName();
