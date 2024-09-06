@@ -23,7 +23,7 @@ const domainName = () => {
     "company",
     "skyscraper"
   ];
-  let ext = [".com", ".gov", ".org", ".edu"];
+  let ext = [".com", ".gov", ".org", ".edu", ".net"];
 
   //start   //end     //direction
   for (let i = 0; i < first.length; i++) {
